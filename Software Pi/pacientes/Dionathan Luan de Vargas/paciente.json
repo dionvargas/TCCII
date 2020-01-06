@@ -1,0 +1,19 @@
+{	
+	"nome": "Dionathan Luan de Vargas",
+	"dataNascimento": "17/06/1990",
+	"rg": "1.234.567",
+	"cpf": "123.456.789-01",
+	"orientacaoSexual": "Masculino",
+	"estadoCivil": "Solteiro",
+	"telefone": "(12) 3456-7890",
+	"celular": "(12) 13451-1234",
+	"recado": "(12) 0987-6543",
+	"endereco": "Rua Limeira, 380",
+	"estado": "Santa Catarina (SC)",
+	"cidade": "Luzerna",
+	"cep": "89609-000",
+	"profisao": "Técnico de Laboratório",
+	"empresa": "Instituto Federal Catarinense",
+	"eTelefone": "(12) 6132-6124",
+	"observacoes": "Bla bla bla \npuleri linha\noutro bla bla bla"
+}

@@ -1,0 +1,19 @@
+{	
+	"nome": "Jorge Ramos",
+	"dataNascimento": "12/05/1998",
+	"rg": "7.654.321",
+	"cpf": "142.723.513-82",
+	"orientacaoSexual": "Masculino",
+	"estadoCivil": "Solteiro",
+	"telefone": "(12) 3456-7890",
+	"celular": "(12) 13451-1234",
+	"recado": "(12) 0987-6543",
+	"endereco": "Rua Limeira, 380",
+	"estado": "Santa Catarina (SC)",
+	"cidade": "Luzerna",
+	"cep": "89600-000",
+	"profisao": "Estudante",
+	"empresa": "Instituto Federal Catarinense",
+	"eTelefone": "(12) 6132-6124",
+	"observacoes": "Eita \npulei linha\noutro bla bla bla"
+}
